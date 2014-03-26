@@ -1,0 +1,16 @@
+{
+  "name": "l5r",
+  "version": "0.0.1",
+  "author": "Martin Di Domenico <martindido87@gmail.com>",
+  "description": "No idea yet.",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^3.4.8",
+    "asynquence": "^0.3.3-b",
+    "socket.io": "^0.9.16",
+    "jade": "^1.2.0",
+    "socket.io-clusterhub": "^0.2.0"
+  }
+}
